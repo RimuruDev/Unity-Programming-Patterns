@@ -58,3 +58,6 @@ Note that these are not all patterns out there. I recently read a book called "M
 - **[masoudarvishian](https://github.com/masoudarvishian)** for implementing Event Queue pattern, Service Locator pattern, and bug fixing.
 - **[VladimirMirMir](https://github.com/VladimirMirMir)** for bug fixing.
 - **[JayadevHaddadi](https://github.com/JayadevHaddadi)** for fixing event code. 
+
+
+TODO: Repository Pattern
